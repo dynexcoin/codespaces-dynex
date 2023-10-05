@@ -8,7 +8,7 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": ["notebooks/Dynex_hello_world.ipynb"]
+      "openFiles": []
     },
     "vscode": {
       "extensions": [
