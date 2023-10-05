@@ -10,5 +10,16 @@ Dynex is the world’s first neuromorphic supercomputing blockchain based on the
 4. Open the file "Dynex_hello_world.ipynb" in ```/notebooks```
 5. Start computing
 
+## Dynex SDK documentation
+- [Dynex SDK Wiki](https://github.com/dynexcoin/DynexSDK/wiki)
+- [Dynex SDK Documentation](https://docs.dynexcoin.org/)
+
+## Dynex SDK Professional Community
+- [Dynex Workspace on Slack](https://join.slack.com/t/dynex-workspace/shared_invite/zt-22eb1n4mo-aXS5zsUBoPs613Dofi8Q4A)
+
+## Guides
+- [Medium: Computing on the Dynex Neuromorphic Platform: Image Classification](https://dynexcoin.medium.com/computing-on-the-dynex-neuromorphic-platform-image-classification-9b880d7ced9c)
+- [Medium: Computing on the Dynex Neuromorphic Platform: IBM Qiskit 4-Qubit Full Adder Circuit](https://medium.com/@dynexcoin/computing-on-the-dynex-neuromorphic-platform-ibm-qiskit-4-qubit-full-adder-circuit-7416084e19dd)
+
 
 
