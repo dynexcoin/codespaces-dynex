@@ -4,11 +4,11 @@
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "pip3 install --user -r requirements.txt",
+  "updateContentCommand": "pip install pyqubo && pip install dynex",
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": ["notebooks/Dynex_hello_world.ipynb"]
     },
     "vscode": {
       "extensions": [
